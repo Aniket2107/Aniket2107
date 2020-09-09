@@ -7,16 +7,14 @@
 
 <h3>🛠 Tech Stack</h3>
 <pre>
-* :dart:&nbsp; Mern stack 
-* 💻&nbsp; Python | Java | C++ 
-* 💻&nbsp; React | React-Redux  | Graphql - Apollo | Node.js  
+* 💡&nbsp; Mern stack 
+* 🖥️&nbsp; React | React-Redux  | Graphql - Apollo | Node.js  
 * 🌐&nbsp; HTML | CSS | JavaScript | Bootstrap 
 * 🛢&nbsp; MySQL | MongoDB | Firebase
+* 💻&nbsp; Python | Java | C++
 * 🔧&nbsp; Git
 </pre>
 <br/><br />
-
-<!-- [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket2107&show_icons=true)](https://github.com/Aniket2107) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
 

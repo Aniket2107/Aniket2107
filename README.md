@@ -3,11 +3,11 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineerign at PBCOE, Nagpur. 
+- 🎓 &nbsp; Studying Computer Science and Engineering at PBCOE, Nagpur. 
 
 <h3>🛠 Tech Stack</h3>
 <pre>
-* 💻&nbsp; Mern stack 
+* :dart:&nbsp; Mern stack 
 * 💻&nbsp; Python | Java | C++ 
 * 💻&nbsp; React | React-Redux  | Graphql - Apollo | Node.js  
 * 🌐&nbsp; HTML | CSS | JavaScript | Bootstrap 

@@ -6,13 +6,14 @@
 - 🎓 &nbsp; Studying Computer Science and Engineerign at PBCOE, Nagpur. 
 
 <h3>🛠 Tech Stack</h3>
+<pre>
 * 💻&nbsp; Mern stack 
 * 💻&nbsp; Python | Java | C++ 
 * 💻&nbsp; React | React-Redux  | Graphql - Apollo | Node.js  
 * 🌐&nbsp; HTML | CSS | JavaScript | Bootstrap 
 * 🛢&nbsp; MySQL | MongoDB | Firebase
 * 🔧&nbsp; Git
-
+</pre>
 <br/><br />
 
 <!-- [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket2107&show_icons=true)](https://github.com/Aniket2107) -->

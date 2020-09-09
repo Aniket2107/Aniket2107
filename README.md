@@ -6,12 +6,12 @@
 - 🎓 &nbsp; Studying Computer Science and Engineerign at PBCOE, Nagpur. 
 
 <h3>🛠 Tech Stack</h3>
--  💻 &nbsp; Mern stack 
--  💻 &nbsp; Python | Java | C++ 
--  💻 &nbsp; React | React-Redux  | Graphql - Apollo | Node.js  
--  🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
--  🛢 &nbsp; MySQL | MongoDB | Firebase
--  🔧 &nbsp; Git
+*  💻 &nbsp; Mern stack 
+*  💻 &nbsp; Python | Java | C++ 
+*  💻 &nbsp; React | React-Redux  | Graphql - Apollo | Node.js  
+*  🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+*  🛢 &nbsp; MySQL | MongoDB | Firebase
+*  🔧 &nbsp; Git
 
 <br/><br />
 

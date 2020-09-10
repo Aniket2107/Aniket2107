@@ -8,10 +8,11 @@
 <h3>🛠 Tech Stack</h3>
 <pre>
 * 💡&nbsp; Mern stack 
-* 🖥️&nbsp; React | React-Redux  | Graphql - Apollo | Node.js  
+* 🖥️&nbsp; React | React-Redux  | Graphql - Apollo | Node.js 
 * 🌐&nbsp; HTML | CSS | JavaScript | Bootstrap 
 * 🛢&nbsp; MySQL | MongoDB | Firebase
 * 💻&nbsp; Python | Java | C++
+* 📱&nbsp; React Native 
 * 🔧&nbsp; Git
 </pre>
 <br/><br />

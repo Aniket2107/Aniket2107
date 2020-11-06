@@ -12,7 +12,7 @@
 * 🌐&nbsp; HTML | CSS | JavaScript | Bootstrap 
 * 🛢&nbsp; MySQL | MongoDB | Firebase
 * 💻&nbsp; Python | Java | C++
-* 📱&nbsp; React Native | Flutter
+* 📱&nbsp; Flutter
 * 🔧&nbsp; Git
 </pre>
 <br/><br />

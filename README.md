@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; SDE at Calacne Software Gurgaon.
+- 🎓 &nbsp; SDE at Calance Software Gurgaon.
 
 <h3>🛠 Tech Stack</h3>
 <pre>
